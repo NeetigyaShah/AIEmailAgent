@@ -5,6 +5,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-FF4B4B.svg)
 ![LangGraph](https://img.shields.io/badge/LangGraph-Agentic-orange.svg)
 ![Gemini](https://img.shields.io/badge/AI-Gemini%202.5-8E44AD.svg)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://neetigyashahaiemailagent.streamlit.app/)
 
 **Transform your inbox into an intelligent, actionable dashboard.**
 
@@ -108,4 +109,4 @@ email_agent/
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️
