@@ -1,0 +1,26 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Streamlit
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+# Project Specific
+email_agent.db
+client_secret.json
+.env
+*.log
+
+# OS
+.DS_Store
+Thumbs.db

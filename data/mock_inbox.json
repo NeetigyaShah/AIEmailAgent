@@ -1,0 +1,107 @@
+[
+    {
+        "id": "email_001",
+        "sender": "boss@company.com",
+        "subject": "Urgent: Q3 Report Due",
+        "timestamp": "2023-10-27T09:00:00",
+        "body": "Hi Team, I need the Q3 report by EOD tomorrow. Please prioritize this."
+    },
+    {
+        "id": "email_002",
+        "sender": "newsletter@techweekly.com",
+        "subject": "Tech Weekly: AI Revolution",
+        "timestamp": "2023-10-27T10:15:00",
+        "body": "This week in tech: AI agents are taking over..."
+    },
+    {
+        "id": "email_003",
+        "sender": "spam@offers.com",
+        "subject": "You won a lottery!",
+        "timestamp": "2023-10-27T11:30:00",
+        "body": "Click here to claim your prize now!"
+    },
+    {
+        "id": "email_004",
+        "sender": "colleague@company.com",
+        "subject": "Lunch?",
+        "timestamp": "2023-10-27T12:00:00",
+        "body": "Hey, want to grab lunch at the taco place?"
+    },
+    {
+        "id": "email_005",
+        "sender": "client@clientcorp.com",
+        "subject": "Meeting Request: Project Kickoff",
+        "timestamp": "2023-10-27T14:00:00",
+        "body": "Can we schedule a kickoff meeting for the new project next Tuesday at 2 PM?"
+    },
+    {
+        "id": "email_006",
+        "sender": "hr@company.com",
+        "subject": "Open Enrollment",
+        "timestamp": "2023-10-26T09:00:00",
+        "body": "It's that time of year again! Open enrollment starts next week."
+    },
+    {
+        "id": "email_007",
+        "sender": "devops@company.com",
+        "subject": "Server Maintenance",
+        "timestamp": "2023-10-26T22:00:00",
+        "body": "Scheduled maintenance tonight at midnight. Expect downtime."
+    },
+    {
+        "id": "email_008",
+        "sender": "recruiter@linkedin.com",
+        "subject": "New Opportunity",
+        "timestamp": "2023-10-25T15:45:00",
+        "body": "I came across your profile and thought you'd be a great fit for..."
+    },
+    {
+        "id": "email_009",
+        "sender": "billing@saas.com",
+        "subject": "Invoice #12345",
+        "timestamp": "2023-10-25T08:00:00",
+        "body": "Your invoice for October is ready. Amount due: $49.99"
+    },
+    {
+        "id": "email_010",
+        "sender": "mom@family.com",
+        "subject": "Weekend Plans",
+        "timestamp": "2023-10-24T19:30:00",
+        "body": "Are you coming home this weekend? Let me know."
+    },
+    {
+        "id": "email_011",
+        "sender": "project_manager@company.com",
+        "subject": "Task: Update Documentation",
+        "timestamp": "2023-10-24T10:00:00",
+        "body": "Please update the API documentation by Friday. It's outdated."
+    },
+    {
+        "id": "email_012",
+        "sender": "security@company.com",
+        "subject": "Security Alert: Login Attempt",
+        "timestamp": "2023-10-23T03:15:00",
+        "body": "We detected a login attempt from a new device."
+    },
+    {
+        "id": "email_013",
+        "sender": "marketing@company.com",
+        "subject": "New Brand Guidelines",
+        "timestamp": "2023-10-22T11:00:00",
+        "body": "Attached are the new brand guidelines. Please use these moving forward."
+    },
+    {
+        "id": "email_014",
+        "sender": "ceo@company.com",
+        "subject": "All Hands Meeting",
+        "timestamp": "2023-10-21T16:00:00",
+        "body": "Join us for the quarterly all-hands meeting this Friday."
+    },
+    {
+        "id": "email_015",
+        "sender": "support@tool.com",
+        "subject": "Ticket #999 Resolved",
+        "timestamp": "2023-10-20T13:20:00",
+        "body": "Your support ticket has been resolved. Please rate our service."
+    }
+]
