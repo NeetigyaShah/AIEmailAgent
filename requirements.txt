@@ -9,3 +9,4 @@ requests
 google-auth
 google-auth-oauthlib
 plotly
+pandas

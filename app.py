@@ -344,7 +344,7 @@ with tab1:
                         """, unsafe_allow_html=True)
                     
                     if email['is_processed']:
-                        st.markdown(f'<span class="category-badge {badge_class}">{email["category"]}</span>', unsafe_allow_html=True)
+                        st.markdown(f'<span class="category-badge {badge_class}">{html.escape(email["category"])}</span>', unsafe_allow_html=True)
                         
                         # Summary Section
                         if email.get('summary'):
